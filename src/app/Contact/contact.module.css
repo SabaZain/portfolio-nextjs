@@ -1,0 +1,20 @@
+.container{
+    background-color:aquamarine;
+    padding: 110px;
+}
+.heading{
+    color:darkmagenta;
+    font-size: 35px;
+    margin-top: 3%;
+    
+}
+.paragraph{
+    font-size: 22px;
+    color: blue;
+}
+.icon{
+    padding: 3px;
+    font-size: 18px;
+    font-weight: 800;
+    color:brown;
+}

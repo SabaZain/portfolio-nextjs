@@ -1,0 +1,42 @@
+.container{
+    padding-left: 7%;
+    
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+    color:darkmagenta;
+}
+.main{
+    background-color:chocolate;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rebeccapurple;
+    max-width: 800px;
+    max-height: 400px;
+    margin-left: 150px;
+    margin-top: 2%;
+    
+}
+.heading{
+    font-size:30px;
+    text-align: left;
+    color:darkmagenta;
+}
+.list{
+    list-style-type:disc;
+    text-align: left;
+    color:blue;
+}
+
+@media (max-width: 768px) {
+
+.main{
+    max-width: 600px;
+    max-height: 400px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 20%;
+    
+}
+}

@@ -1,0 +1,39 @@
+.heropic{
+    background-image: url('/Image/portfoliopic.jpg');
+    background-size:contain;
+    background-position:right;
+    background-repeat: no-repeat;
+    margin-top: 5%;
+    height: 80vh;
+    width: 90%;
+}
+    
+.title{
+    margin-top: 4%;
+    text-align:left;
+    font-size: 30px;
+    margin-left: 20%;
+    color: darkturquoise;
+    
+}
+.paragraph{
+    color:brown;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 25%;
+    
+}
+
+@media(max-width: 780px){
+    .title{
+       font-size: 25px;
+    
+    }
+    .paragraph{
+        font-size: 22px;
+    }
+    .heropic{
+        background-size: 60%;
+        background-position: 60%;
+    }
+}
