@@ -28,6 +28,9 @@
     text-align: left;
     color:blue;
 }
+.items{
+    font-size:14px
+}
 
 @media (max-width: 768px) {
 
@@ -39,4 +42,7 @@
     margin-right: 20%;
     
 }
+    .items{
+        font-size:12px
+    }
 }
