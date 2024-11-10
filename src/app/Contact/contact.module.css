@@ -4,17 +4,17 @@
 }
 .heading{
     color:darkmagenta;
-    font-size: 35px;
+    font-size: 30px;
     margin-top: 3%;
     
 }
 .paragraph{
-    font-size: 22px;
+    font-size: 20px;
     color: blue;
 }
 .icon{
     padding: 3px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 800;
     color:brown;
 }
